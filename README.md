@@ -1,3 +1,5 @@
+<!-- @format -->
+
 # Technical Writing Assignment
 
 For guidance on setting up and submitting this assignment, refer to the Marcy lab School Docs How-To guide for [Working with Short Response and Coding Assignments](https://marcylabschool.gitbook.io/marcy-lab-school-docs/fullstack-curriculum/how-tos/working-with-assignments#how-to-work-on-assignments).
@@ -10,12 +12,11 @@ In your response, make sure to compare the time complexities for insertion, remo
 
 ### Response 1
 
-
 ## Prompt 2
 
-Imagine you are developing a web browser's "back" button functionality. When a user clicks "back," the browser should navigate to the previously visited webpage. 
+Imagine you are developing a web browser's "back" button functionality. When a user clicks "back," the browser should navigate to the previously visited webpage.
 
-Would you use a stack or a queue to implement this functionality? 
+Would you use a stack or a queue to implement this functionality?
 
 In your response, explain what a Stack/Queue is and why it would be best for this use case. Make sure that your response includes the terms LIFO or FIFO.
 
@@ -27,11 +28,12 @@ What is an Abstract Data Type and why are they worth learning about?
 
 ### Response 3
 
+An Abstract Data Type (ADT) is like a blueprint for a data structure—it tells you what you can do with the data but not how it's actually done behind the scenes. It’s all about focusing on the operations rather than the specific implementation.
+
+Learning about ADTs is super useful because they help you think through algorithms, show up in real-world applications (like databases and networking), and let you focus on solving problems without getting stuck on the details. Some common ADTs you might run into are stacks, queues, and graphs, which are essential in programming and software development.
+
 ## Prompt 4
 
-A few classic problems involving a stack are the `isBalanced` and `isPalindrome` functions. Choose one of these functions and provide a solution to it along with a brief lesson explaining how it works. 
+A few classic problems involving a stack are the `isBalanced` and `isPalindrome` functions. Choose one of these functions and provide a solution to it along with a brief lesson explaining how it works.
 
 ### Response 4
-
-
-
